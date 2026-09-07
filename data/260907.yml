@@ -5,7 +5,7 @@ about:
   head: 0830db9
   archived: false
   latestVersion: "v1.2.1"
-  collectedAt: 2026-09-07T06:14:23Z
+  collectedAt: 2026-09-07T18:20:07Z
 timeline:
   created: 2023-11-30
   lastCommit: 2025-05-24
@@ -81,7 +81,7 @@ total:
   commit: 248
 ---
 path: /home/runner/.x-repo/github.com/termkit/gama
-collectedAt: 2026-09-07T06:14:23Z
+collectedAt: 2026-09-07T18:20:08Z
 loc:
   Go:
     code: 4332
@@ -117,7 +117,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T06:14:24+00:00
+  collectedAt: 2026-09-07T18:20:08+00:00
   platform:
     darwin/arm64:
       name:  gama-macos-arm64
