@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.2.1"
   latestRelease: "v1.2.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T06:17:05Z
+  collectedAt: 2026-09-11T18:30:36Z
 timeline:
   created: 2023-11-30
   lastCommit: 2025-05-24
@@ -85,7 +85,7 @@ total:
   commit: 248
 ---
 path: /home/runner/.x-repo/github.com/termkit/gama
-collectedAt: 2026-09-11T06:17:06Z
+collectedAt: 2026-09-11T18:30:38Z
 loc:
   Go:
     code: 4332
