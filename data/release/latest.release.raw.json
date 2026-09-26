@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 8384664,
       "digest": null,
-      "download_count": 891,
+      "download_count": 892,
       "created_at": "2025-01-15T21:51:19Z",
       "updated_at": "2025-01-15T21:51:20Z",
       "browser_download_url": "https://github.com/termkit/gama/releases/download/v1.2.1/gama-linux-amd64"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 91,
       "digest": null,
-      "download_count": 149,
+      "download_count": 153,
       "created_at": "2025-01-15T21:51:20Z",
       "updated_at": "2025-01-15T21:51:21Z",
       "browser_download_url": "https://github.com/termkit/gama/releases/download/v1.2.1/gama-linux-amd64.sha256"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 91,
       "digest": null,
-      "download_count": 39,
+      "download_count": 40,
       "created_at": "2025-01-15T21:51:22Z",
       "updated_at": "2025-01-15T21:51:22Z",
       "browser_download_url": "https://github.com/termkit/gama/releases/download/v1.2.1/gama-linux-arm64.sha256"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 91,
       "digest": null,
-      "download_count": 48,
+      "download_count": 49,
       "created_at": "2025-01-15T21:51:25Z",
       "updated_at": "2025-01-15T21:51:25Z",
       "browser_download_url": "https://github.com/termkit/gama/releases/download/v1.2.1/gama-macos-amd64.sha256"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 97,
       "digest": null,
-      "download_count": 22,
+      "download_count": 23,
       "created_at": "2025-01-15T21:51:24Z",
       "updated_at": "2025-01-15T21:51:24Z",
       "browser_download_url": "https://github.com/termkit/gama/releases/download/v1.2.1/gama-windows-amd64.exe.sha256"
